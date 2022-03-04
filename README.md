@@ -1,2 +1,2 @@
 # news
-#oluwafaithhackernews.netlify.app
+# oluwafaithhackernews.netlify.app

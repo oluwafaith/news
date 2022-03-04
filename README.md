@@ -1,2 +1,2 @@
 # news
-# oluwafaithhackernews.netlify.app
+[Link to site](oluwafaithhackernews.netlify.app)
